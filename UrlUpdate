@@ -1,0 +1,51 @@
+{
+  "Version": "1.0",
+  "ReleaseNotes": "NUEVA VERSIÓN DISPONIBLE",
+  "UrlUpdate": "https://vipnetbr.github.io/conectapy_site/UrlUpdate",
+  "Sms": "https://vipnetbr.github.io/conectapy_site/UrlSms",
+  "EmailFeedback": "https://wa.me/+595971180657",
+  "UrlContato": "https://t.me/Jusmolinas",
+  "UrlTermos": "https://vipnetbr.github.io/conectapy_site/termos.html",
+  "CheckUser": "true",
+  "FormatCheck": "yyyymmdd",
+  "Udp": [
+    {
+      "Porta": "7300"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "PARAGUAY ILIMITADO",
+      "TYPE": "premium",
+      "FLAG": "py.png",
+      "ServerIP": "13.227.125.218",
+      "CheckUser": "http://exemplo01.dominio.xyz:2095/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "TIGO PY 01",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2o05zigceadb1.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "[app_host]",
+      "TlsIP": "13.227.125.218",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIGO PY 02",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1avf48c9e3n3r.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "13.227.125.218",
+      "TlsIP": "13.227.125.218",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    }
+  ]
+}
