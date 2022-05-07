@@ -1,5 +1,5 @@
 {
-  "Version": "2.6",
+  "Version": "2.8",
   "ReleaseNotes": "NUEVA VERSIÓN DISPONIBLE",
   "UrlUpdate": "https://raw.githubusercontent.com/VIPNETBR/Actualizacion/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/VIPNETBR/Actualizacion/main/UrlSms",
@@ -19,7 +19,7 @@
       "TYPE": "premium",
       "FLAG": "py.png",
       "ServerIP": "13.227.125.218",
-      "CheckUser": "URL: URL: http://168.138.131.194:5000/check/",
+      "CheckUser": "http://152.67.52.97:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
