@@ -34,6 +34,6 @@
       "SNI": "www.argentina.gob.ar",
       "TlsIP": "1.1.1.1",
       "ProxyIP": "104.26.5.183",
-      "ProxyPort": "443",
+      "ProxyPort": "",
       "Info": "Tlsws"
     }
