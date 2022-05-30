@@ -36,26 +36,4 @@
       "ProxyIP": "104.26.5.183",
       "ProxyPort": "443",
       "Info": "Tlsws"
-    },
-    {
-      "Name": "Movistar Prepago",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3a067cuhnv070.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "13.227.125.218",
-      "TlsIP": "13.227.125.218",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "Claro Prepago",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1nt0tpw3xxwhe.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "13.227.125.218",
-      "TlsIP": "13.227.125.218",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
     }
-  ]
-}
